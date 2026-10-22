@@ -1,3 +1,6 @@
+
+
+[college chatbot.py](https://github.com/user-attachments/files/33833988/college.chatbot.py)
 # python_projects
 The College FAQ Chatbot is a simple Python-based chatbot developed as part of my Artificial Intelligence internship at CodeAlpha. It answers frequently asked questions about college by matching user queries with predefined questions and answers.
 The chatbot uses Python’s built-in difflib library to find similar questions and provide appropriate responses. This project helped me understand the basics of chatbot development, text similarity matching, and Python programming.
