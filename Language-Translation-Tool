@@ -1,0 +1,50 @@
+🌍 Language Translation Tool
+📌 About the Project
+The Language Translation Tool is a simple web-based application developed using HTML, CSS and JavaScript. It helps users translate text from one language to another using a translation API.
+
+The main aim of this project is to make communication easier by reducing language barriers.
+✨ Features
+- Translate text between multiple languages.
+- Select source and target languages.
+- Swap source and target languages.
+- Simple and user-friendly interface.
+- Display translated text instantly.
+- Copy translated text to the clipboard.
+🛠️ Technologies Used
+- HTML: Used to create the structure of the webpage.
+- CSS: Used to design and style the application.
+- JavaScript: Used to implement the functionality.
+- MyMemory Translation API: Used to translate text between languages.
+🌐 Languages Supported
+- English
+- Kannada
+- Hindi
+- Tamil
+- Telugu
+- French
+- Spanish
+- Marathi
+⚙️ How to Run the Project
+1. Download or clone the repository.
+2. Open the project folder.
+3. Open index.html in your browser.
+4. Enter the text you want to translate.
+5. Select the source and target languages.
+6. Click the Translate button.
+7. View and copy the translated text.
+📸 Project Output
+The application provides a simple interface with:
+- Text input section.
+- Language selection options.
+- Translate button.
+- Translated output section.
+- Copy text option.
+- Swap language option.
+🎯 Objective
+The objective of this project is to develop a simple and useful translation application that helps people communicate across different languages.
+👩‍💻 Developed By
+Your Name
+
+Student | Aspiring Developer
+🔗 API Used
+MyMemory Translation API.
